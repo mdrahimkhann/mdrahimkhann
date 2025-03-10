@@ -1,5 +1,5 @@
 # Hi there 👋, My name is : Md Rahim Khan 
-##I,m a passionate frontend developer from Lebanon
+#I,m a passionate frontend developer from Lebanon
 ![I,m a passionate frontend developer from Lebanon](https://media.licdn.com/dms/image/v2/D4E16AQGWUk5AUoY-Yw/profile-displaybackgroundimage-shrink_200_800/B4EZV.3rrNHcAY-/0/1741590282175?e=1747267200&v=beta&t=Ewgzw7-dLRD2elA7UveN1VWb5puG30iBLuPGyGehypo)
 
 About Me I'm a frontend developer passionate about building modern, responsive, and high-performance web applications. My stack includes React.js, JavaScript, and Tailwind CSS, and I enjoy crafting sleek UIs with clean and efficient code.
